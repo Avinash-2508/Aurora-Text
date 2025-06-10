@@ -1,7 +1,7 @@
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: space-betweeen;
     height: 100vh;
     background-color: black;
 }
