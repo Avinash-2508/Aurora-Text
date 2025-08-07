@@ -2,7 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 10vh;
     background-color: black;
 }
 
@@ -44,6 +44,7 @@ body {
         letter-spacing: 2px;
     }
 }
+
 
 
 
