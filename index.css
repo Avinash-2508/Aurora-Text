@@ -6,7 +6,7 @@ body {
     background-color: black;
 }
 
-.aurora-text {
+.aurora-text 
     font-size: 10rem;
     font-weight: bold;
     text-transform: uppercase;
@@ -44,6 +44,7 @@ body {
         letter-spacing: 2px;
     }
 }
+
 
 
 
